@@ -6,16 +6,17 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "kaper-com.aternos.me
+,
+    "port": 64993
+    "version": "1.8.9",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 95.5,
+    "y": 65,
+    "z": 257.5,
   },
   "utils": {
     "auto-auth": {
